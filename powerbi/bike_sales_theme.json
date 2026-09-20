@@ -1,0 +1,20 @@
+{
+  "name": "Bike Sales",
+  "dataColors": ["#1F4E79", "#F28E2B", "#59A14F", "#E15759", "#76B7B2", "#EDC948", "#B07AA1", "#9C755F"],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#1F4E79",
+  "textClasses": {
+    "title":  { "fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#252423" },
+    "label":  { "fontFace": "Segoe UI", "fontSize": 10, "color": "#605E5C" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#1F4E79" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "show": true, "fontSize": 12, "fontColor": { "solid": { "color": "#252423" } } }],
+        "border": [{ "show": false }]
+      }
+    }
+  }
+}
