@@ -353,7 +353,6 @@ The foundation of this repository follows the course described in the acknowledg
 - Added `00_run_all.sql` for a one-step rebuild and refresh, and numbered the scripts by execution order.
 - Extended the **data quality checks** for the Gold layer (integrity, reconciliation, calendar coverage).
 - Designed and built the **five-page Power BI report**, with its calculated columns and DAX measures.
-- [Add your other modifications here]
 
 ---
 
